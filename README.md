@@ -1,1 +1,1 @@
-# ShipItCollection
+# ShipItCollectionA collection of images that are pasted randomly when a certain key-combination is utilised.
